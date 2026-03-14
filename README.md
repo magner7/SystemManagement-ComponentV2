@@ -65,15 +65,15 @@ src
 ---
 # Demonstração 
 <p align="center">
-  <img src="./assets/painel.png" width="750">
+  <img src="./assets/Screenshot_20260314_032057_site_mises_browser_stable_ChromeTabbedActivity_edit_550537091548888.jpg" width="750">
 </p>
 
 <p align="center">
-  <img src="./assets/ticket-system.png" width="750">
+  <img src="./assets/Screenshot_20260314_032203_site_mises_browser_stable_ChromeTabbedActivity_edit_550484262811565.jpg" width="750">
 </p>
 
 <p align="center">
-  <img src="./assets/welcome-system.png" width="750">
+  <img src="./assets/Screenshot_20260314_032220_site_mises_browser_stable_ChromeTabbedActivity_edit_550511344113325.jpg" width="750">
 </p>
 
 ---
