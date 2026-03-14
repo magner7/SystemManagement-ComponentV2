@@ -1,0 +1,9 @@
+services:
+  bot:
+    build: .
+    container_name: gerenciamento-bot-ts
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data

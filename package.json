@@ -1,0 +1,24 @@
+{
+  "name": "samp-labs",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "start": "tsx src/index.ts",
+    "deploy": "tsx src/deploy-commands.ts"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.68",
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.2",
+    "lodash": "^4.17.21",
+    "lodash.snakecase": "^4.1.1",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
+  }
+}
